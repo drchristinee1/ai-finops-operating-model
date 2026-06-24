@@ -1,0 +1,4 @@
+provider,model,model_tier,total_cost,total_tokens,total_requests,avg_quality,avg_latency_ms,business_outcome,cost_per_1k_tokens,cost_per_request,cost_per_outcome,efficiency_score,recommendation
+Anthropic,claude-sonnet,Premium,24.5,240000,300,95.0,1500.0,180,0.10208333333333333,0.08166666666666667,0.1361111111111111,1163.265306122449,Use for high-value or quality-sensitive workflows
+OpenAI,gpt-4o,Premium,31.599999999999998,330000,500,91.5,1750.0,345,0.09575757575757575,0.06319999999999999,0.09159420289855072,1447.7848101265824,"Use selectively; monitor quality, latency, and cost"
+OpenAI,gpt-4o-mini,Economy,10.15,440000,850,85.0,925.0,510,0.023068181818181818,0.011941176470588236,0.019901960784313725,7118.226600985221,Strong candidate for cost-optimized routing

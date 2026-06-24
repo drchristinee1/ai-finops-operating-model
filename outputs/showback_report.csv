@@ -1,0 +1,5 @@
+team,application,total_cost,total_tokens,total_requests,business_outcome,cost_per_request,cost_per_outcome,recommendation
+Engineering,CodeAssist,24.5,240000,300,180,0.08166666666666667,0.1361111111111111,"Review model choice, prompt size, caching, and routing policy"
+Finance,ReportAI,13.2,130000,100,25,0.132,0.528,"Review model choice, prompt size, caching, and routing policy"
+Sales,ProposalAI,3.25,140000,250,80,0.013,0.040625,Cost profile acceptable; continue monitoring
+Support,CustomerBot,25.299999999999997,500000,1000,750,0.025299999999999996,0.03373333333333333,Cost profile acceptable; continue monitoring
